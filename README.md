@@ -30,8 +30,11 @@ Aqui estão as tecnologias que fazem parte do meu ecossistema de desenvolvimento
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+#### Conceitos & Arquitetura
+![POO](https://img.shields.io/badge/Paradigma-POO-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/Arquitetura-APIs_REST-orange?style=for-the-badge)
 
 ### 📫 Vamos conversar?
 
