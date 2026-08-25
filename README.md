@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=victorgabriielsv&background=0D1117&border=E63946&ring=E63946&fire=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=FFFFFF&dates=9E9E9E&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=victorgabriielsv&background=0D1117&border=E63946&ring=E63946&fire=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=FFFFFF&dates=9E9E9E&hide_border=false" />
 
 <br><br>
 
