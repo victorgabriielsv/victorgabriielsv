@@ -1,77 +1,103 @@
-<h1 align="center">Olá, mundo! Eu sou o Victor Gabriel 👋</h1>
+<div align="center">
 
-<h3 align="center">Full Stack em Formação</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Victor%20Gabriel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20em%20Forma%C3%A7%C3%A3o&descAlignY=55&descSize=20" width="100%" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full-Stack+em+Forma%C3%A7%C3%A3o;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%26+ADS;Apaixonado+por+Web+Design+e+APIs;Ca%C3%A7ador+profissional+de+ponto+e+v%C3%ADrgula+%F0%9F%94%8D" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-em%20constante%20aprendizado-brightgreen?style=for-the-badge" />
-</p>
+<br>
 
----
+<a href="https://instagram.com/victorgabriielsv"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/victor-silva-470980398"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=victorgabriielsv&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=58A6FF&style=flat" alt="profile views" />
+
+</div>
+
+<br>
 
 ## 🚀 Sobre Mim
 
-Sou **desenvolvedor Full Stack em formação**, focado em aprender e dominar as principais tecnologias de ponta a ponta. Curto criar interfaces modernas no frontend e desenvolver soluções inteligentes, APIs robustas e automações no backend usando **Java, Python, Node.js e PHP**.
+```yaml
+sobre_mim:
+  formacao: "Ciência da Computação (CC) & Análise e Desenvolvimento de Sistemas (ADS)"
+  foco_atual: "Aprimorar minhas stacks e explorar a fundo o conceito da programação"
+  gosto_de_falar_sobre: "Web Design 🎨, backend, automação e aspas simples vs duplas"
+  curiosidade: "Consigo passar horas caçando um ponto e vírgula perdido (ou quase)"
+```
 
-- 🎓 **Atualmente estudando:** Ciência da Computação (CC) e Análise e Desenvolvimento de Sistemas (ADS)
-- 🌱 **Aprendendo bastante sobre:** Buscando aprimorar sempre minhas stacks e explorando a fundo o conceito da programação
-- 💬 **Pergunte-me sobre:** Web Design (o que eu mais gosto), desenvolvimento backend, automação e a eterna briga entre aspas duplas ou simples
-- ⚡ **Curiosidade:** Consigo passar horas caçando um ponto e vírgula perdido sem perder a paciência (ou quase)
+<br>
 
----
+## 🛠️ Ferramentas & Tecnologias
 
-## 🛠️ Minhas Ferramentas & Tecnologias
+<div align="center">
 
-Aqui estão as tecnologias que fazem parte do meu ecossistema de desenvolvimento:
+**Frontend**
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
 
-### Backend & Banco de Dados
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br><br>
 
-### Metodologias Ágeis
+**Backend & Banco de Dados**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,php,mysql&theme=dark" />
+
+<br><br>
+
+**Metodologias & Conceitos**
+
 ![Scrum](https://img.shields.io/badge/Scrum-E91E63?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-
-### Conceitos & Arquitetura
-![Paradigmas](https://img.shields.io/badge/Paradigma-4B5563?style=for-the-badge)
 ![POO](https://img.shields.io/badge/POO-4B5563?style=for-the-badge)
-![Arquitetura](https://img.shields.io/badge/Arquitetura-4B5563?style=for-the-badge)
 ![APIs REST](https://img.shields.io/badge/APIs%20REST-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
+</div>
 
-## 📊 Estatísticas do GitHub
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorgabriielsv&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorgabriielsv&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📊 Estatísticas
 
----
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=victorgabriielsv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgabriielsv&layout=compact&theme=tokyonight&hide_border=true" />
 
-## 💬 Vamos conversar?
+<br>
 
-Se você quiser trocar uma ideia sobre projetos, tecnologia, ou abrir uma issue no meu coração, só me chamar:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=victorgabriielsv&theme=tokyonight&hide_border=true" />
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victorgabriielsv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-silva-470980398)
+<br>
 
----
+## 🏆 Troféus
 
-<p align="center">
-  <i>"Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não." 💻</i>
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=victorgabriielsv&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br>
+
+## 📈 Atividade de Contribuições
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorgabriielsv&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+### 💬 Vamos conversar?
+
+Se você quiser trocar uma ideia sobre projetos, tecnologia, ou abrir uma *issue* no meu coração, é só chamar nos links lá em cima! 👆
+
+<br>
+
+*"Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não." 💻*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" />
+
+</div>
