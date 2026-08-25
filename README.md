@@ -73,28 +73,15 @@
 ## 📊 Estatísticas
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=victorgabriielsv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgabriielsv&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorgabriielsv&theme=tokyonight&hide_border=true" />
-</div>
 
-<br>
+<br><br>
 
-## 🏆 Troféus
+![Repositórios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/victorgabriielsv&label=Reposit%C3%B3rios&query=%24.public_repos&color=58A6FF&style=for-the-badge&logo=github)
+![Seguidores](https://img.shields.io/github/followers/victorgabriielsv?label=Seguidores&color=58A6FF&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/victorgabriielsv&label=Conta%20criada&query=%24.created_at&color=58A6FF&style=for-the-badge&logo=github)
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=victorgabriielsv&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<br>
-
-## 📈 Atividade de Contribuições
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorgabriielsv&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 <br>
@@ -107,6 +94,13 @@ Se você quiser trocar uma ideia sobre projetos, tecnologia, ou abrir uma *issue
 
 <br>
 
+*"Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não." 💻*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" />
+
+</div>
 *"Existem 10 tipos de pessoas no mundo: as que entendem binário e as que não." 💻*
 
 <br>
