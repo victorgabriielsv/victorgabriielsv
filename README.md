@@ -20,13 +20,24 @@
 
 ## 🚀 Sobre Mim
 
-```yaml
-sobre_mim:
-  formacao: "Ciência da Computação (CC) & Análise e Desenvolvimento de Sistemas (ADS)"
-  foco_atual: "Aprimorar minhas stacks e explorar a fundo o conceito da programação"
-  gosto_de_falar_sobre: "Web Design 🎨, backend, automação e aspas simples vs duplas"
-  curiosidade: "Consigo passar horas caçando um ponto e vírgula perdido (ou quase)"
-```
+<table>
+<tr>
+<td width="70">🎓</td>
+<td><b>Formação</b><br>Ciência da Computação (CC) & Análise e Desenvolvimento de Sistemas (ADS)</td>
+</tr>
+<tr>
+<td>🌱</td>
+<td><b>Foco atual</b><br>Aprimorar minhas stacks e explorar a fundo o conceito da programação</td>
+</tr>
+<tr>
+<td>💬</td>
+<td><b>Fala comigo sobre</b><br>Web Design (o que eu mais gosto), backend, automação e a eterna briga entre aspas simples e duplas</td>
+</tr>
+<tr>
+<td>⚡</td>
+<td><b>Curiosidade</b><br>Consigo passar horas caçando um ponto e vírgula perdido sem perder a paciência (ou quase)</td>
+</tr>
+</table>
 
 <br>
 
@@ -42,7 +53,7 @@ sobre_mim:
 
 **Backend & Banco de Dados**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,php,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,py,php,mysql&theme=dark" />
 
 <br><br>
 
@@ -50,7 +61,9 @@ sobre_mim:
 
 ![Scrum](https://img.shields.io/badge/Scrum-E91E63?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![POO](https://img.shields.io/badge/POO-4B5563?style=for-the-badge)
+![POO](https://img.shields.io/badge/POO-6C5CE7?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Paradigmas](https://img.shields.io/badge/Paradigmas-00B894?style=for-the-badge&logo=codefactor&logoColor=white)
+![Arquitetura](https://img.shields.io/badge/Arquitetura-0984E3?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![APIs REST](https://img.shields.io/badge/APIs%20REST-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
